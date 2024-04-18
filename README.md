@@ -1,6 +1,6 @@
 # Baseball-Salary-Forecast-Modeling 🏌️‍♀️⚾️
 
-## Business Problem
+## 1- Business Problem
 📌 Salary information and career statistics of baseball players from 1986 are shared. A machine learning model is developed to make salary predictions on this dataset.
 
 ## 2- Dataset Story
